@@ -1,0 +1,28 @@
+.bg-container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-container {
+  display: flex;
+  width: 80%;
+  background-color: #ffffff;
+  flex-direction: column;
+  padding-bottom: 50px;
+}
+
+.container-date {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.card-add-container {
+  display: flex;
+}
+
+.horizontal-line {
+  width: 100%;
+}
